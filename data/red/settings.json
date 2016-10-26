@@ -1,13 +1,13 @@
 {
-    "EMAIL" : "MjQwNjI4MzQwNDAxMTExMDQx.CvGiRA.rCzf2Bc8NGWk-a5PmBAtopCvYDA",
+    "EMAIL" : "MjA2OTg1MDAzNzEwNTQ1OTIw.CvJxkw.QY3ej0nlOaLAOl029F-O394s23w",
     "LOGIN_TYPE" : "token",
-    "OWNER" : "157032340814561280",
+    "OWNER" : "169405783673405440",
     "PASSWORD" : "",
     "PREFIXES" : [
-        "amp!"
+        "~"
     ],
     "default" : {
-        "ADMIN_ROLE" : "mod",
-        "MOD_ROLE" : "Process"
+        "ADMIN_ROLE" : "Admin",
+        "MOD_ROLE" : "Moderator"
     }
 }
