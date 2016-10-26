@@ -26,3 +26,4 @@ If [*after reading the guides*](https://twentysix26.github.io/Red-Docs/) you're 
 
 Have fun!
 # Red-DiscordBot
+# Red-DiscordBot
