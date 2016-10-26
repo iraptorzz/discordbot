@@ -370,6 +370,9 @@ def load_cogs():
 def main():
     global settings
 
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
+    
     check_folders()
     check_configs()
     set_logger()
