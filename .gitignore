@@ -3,6 +3,7 @@
 __pycache__
 data
 !data/trivia/*
+!data/red/settings.json
 !data/audio/playlists/*
 *.exe
 *.dll
