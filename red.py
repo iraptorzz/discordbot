@@ -394,7 +394,7 @@ def main():
               "update.bat")
     else:
         print("Make sure to keep your bot updated by using: git pull")
-        print("and: pip3 install -U git+https://github.com/Rapptz/"
+        print("and: pip3 install -U git+https://github.com/Rztz/"
               "discord.py@master#egg=discord.py[voice]")
     print("Official server: https://discord.me/Red-DiscordBot")
     if settings.login_type == "token":
@@ -412,6 +412,9 @@ def main():
     yield from bot.connect()
 
 if __name__ == '__main__':
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port)
+    
     error = False
     loop = asyncio.get_event_loop()
     try:
