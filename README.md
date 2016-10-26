@@ -25,3 +25,4 @@ Don't forget to read the [general tips](http://twentysix26.github.io/Red-Docs/re
 If [*after reading the guides*](https://twentysix26.github.io/Red-Docs/) you're still experiencing issues that are not listed in [this page](https://twentysix26.github.io/Red-Docs/red_guide_troubleshooting/), feel free to join the [official server](https://discord.gg/0k4npTwMvTpv9wrh) with your main account to get some help.  
 
 Have fun!
+# Red-DiscordBot
