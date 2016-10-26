@@ -1,1 +1,1 @@
-web: python red.py ${PORT}
+bot: python red.py
