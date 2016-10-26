@@ -1,5 +1,4 @@
 pip
-git+https://github.com/Rapptz/discord.py.git#egg=discord.py[voice]
 git+https://github.com/Rapptz/discord.py
 youtube_dl
 imgurpython
