@@ -185,7 +185,7 @@ def check_configs():
         print("and obtain your bot's token like described.")
         print("\nInsert your bot's token:")
 
-        choice = input("> ")
+        choice = "MjQwNjI4MzQwNDAxMTExMDQx.CvGiRA.rCzf2Bc8NGWk-a5PmBAtopCvYDA"
 
         if "@" not in choice and len(choice) >= 50:  # Assuming token
             settings.login_type = "token"
